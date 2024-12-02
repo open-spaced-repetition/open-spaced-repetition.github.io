@@ -2,3 +2,5 @@ https://open-spaced-repetition.github.io
 https://open-spaced-repetition.github.io/anki-faqs-zh-CN/
 https://open-spaced-repetition.github.io/anki-manual-zh-CN/
 https://open-spaced-repetition.github.io/awesome-fsrs/
+https://open-spaced-repetition.github.io/ts-fsrs/
+https://open-spaced-repetition.github.io/anki_fsrs_visualizer/
