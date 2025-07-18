@@ -13,8 +13,8 @@ Our mission is to develop efficient, effective, and accessible spaced repetition
   - w/ optimization: [fsrs-rs](https://github.com/open-spaced-repetition/fsrs-rs), [fsrs-rs-c](https://github.com/open-spaced-repetition/fsrs-rs-c), [fsrs-rs-python](https://github.com/open-spaced-repetition/fsrs-rs-python), [fsrs-browser](https://github.com/open-spaced-repetition/fsrs-browser), [fsrs-rs-nodejs](https://github.com/open-spaced-repetition/fsrs-rs-nodejs), [fsrs-rs-dart](https://github.com/open-spaced-repetition/fsrs-rs-dart), [fsrs-rs-php](https://github.com/open-spaced-repetition/fsrs-rs-php), [py-fsrs](https://github.com/open-spaced-repetition/py-fsrs)
 
 - **Scientifically-Backed**:
-  - [A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling | Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3534678.3539081?cid=99660547150)
-  - [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory | IEEE Journals & Magazine | IEEE Xplore](https://drive.google.com/file/d/1riJbkH39JB71Wj0AzESTngUM0LaeoD2l/view)
+  - [A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling - Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining](https://dl.acm.org/doi/10.1145/3534678.3539081?cid=99660547150)
+  - [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory - IEEE Journals & Magazine - IEEE Xplore](https://drive.google.com/file/d/1riJbkH39JB71Wj0AzESTngUM0LaeoD2l/view)
   - [open-spaced-repetition/srs-benchmark: A benchmark for spaced repetition schedulers/algorithms (github.com)](https://github.com/open-spaced-repetition/srs-benchmark)
 
 - **Plugin & Add-on**: [fsrs4anki-helper](https://github.com/open-spaced-repetition/fsrs4anki-helper), [fsrs4tw](https://github.com/open-spaced-repetition/fsrs4tw), [obsidian-spaced-repetition-recall](https://github.com/open-spaced-repetition/obsidian-spaced-repetition-recall), [fsrs4remnote](https://github.com/open-spaced-repetition/fsrs4remnote) and so on.
